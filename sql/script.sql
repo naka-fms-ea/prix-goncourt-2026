@@ -66,11 +66,37 @@ Il y a quelque trente-trois siècles, des guerriers grecs ravagent une cité d\'
 (8, 'Chronique d\'un royaume perdu', 'Au Bouchon, petit village isolé de l\’île Maurice, quatre générations se succèdent depuis le temps de l\’esclavage. La violence se mêle à l\’amour, la tendresse à la haine, les plus nobles passions aux vices les plus vils, les sangs des unes aux sangs des autres…
 Les cinq fondateurs viennent d\’une plantation lointaine  : trois sont nés dans la puissante et blanche famille Dumontais  ; deux d\’une esclave noire. Mais les trois blancs sont en vérité le fruit d\’une passion entre Madame et le Vieux Bouc, un esclave magnétique qui revendique aussi la paternité des deux derniers. Bannis pour s\’être liés d’amour et d\’amitié, les cinq enfants devenus grands trouvent refuge dans ce lieu perdu dont ils font leur royaume, autarcique et magique, qu\’ils défendent d’un seul corps, puisqu\’ici sont abolies les frontières entre passé, présent et avenir  ; vie et mort  ; réel et fantastique.
 Tel homme entend sans le vouloir tous les péchés humains  ; telle femme meurt et renait en déesse protectrice  ; un enfant vit parmi les oiseaux quand son cousin viole et tue sans frein  ; le moulin est hanté par les voix des fantômes, la nature donne les plus beaux fruits mais décapite la chapelle  ; les guerres du monde contemporain rencontrent les combats intérieurs de chaque individu et l\’histoire de l’humanité se reproduit dans l\’infiniment petit de leurs existences débridées. Parmi eux, un enfant timide sera le chroniqueur de ce royaume hors-norme dont il livre les jours de paix, de luttes, et les nuits de folie pour empêcher l’oubli.
-Épopée fabuleuse,  mythologie vibrante, fable majestueuse, cette Chronique d’un Royaume perdu est le chef d’œuvre d’Ananda Devi.', '2026-08-19', 454, '9782246846949', 24.00, 8, 6);
-/*(4, 'Thomas Petit', '8 allée des Fleurs, 33000 Bordeaux');*/
-/*(4, 'Thomas Petit', '8 allée des Fleurs, 33000 Bordeaux');*/
-/*(4, 'Thomas Petit', '8 allée des Fleurs, 33000 Bordeaux');*/
+Épopée fabuleuse,  mythologie vibrante, fable majestueuse, cette Chronique d’un Royaume perdu est le chef d’œuvre d’Ananda Devi.', '2026-08-19', 454, '9782246846949', 24.00, 8, 6),
+(9, 'De l\'autre côté du lac', '« Paola était comme ça. Elle était entière. Elle voulait toujours que tout soit vrai, les rapports humains, les discussions, les rencontres, les projets dans lesquels elle s\’engageait. Elle ne supportait pas les faux-semblants, les demi-mesures. Elle était d’un bloc. Elle disait les mots ont de la valeur. Les actes ont de la valeur. Elle voulait qu’il y ait de l\’enjeu. C\’est dans l\’inconfort qu’on se découvre, elle disait. C\’est dans l\’inconfort qu\’on grandit. »
 
+Aux abords d\’un lac de haute montagne, à la lisière d\’une réserve interdite aux humains, un groupe de chercheurs s\’affaire. Parmi eux, une photographe aperçoit sur un des versants quelque chose qui échappe au regard de tous les autres. Les signes étranges s\’accumulent, un corps est retrouvé. La photographe décide de rester là-haut, seule. 
+Quelques mois plus tard, c\’est elle qui, à son tour, disparaît. 
+
+Avec ce roman tout en tension, Sylvain Prudhomme approfondit plusieurs thèmes qui lui sont chers : le désir d’intensité, l’appel du sauvage, le rêve d’une vie vraie. ', '2026-08-27', 279, '9782707358233', 22.00, 9, 7),
+(10, 'Choses que je croyais perdues', '« Je voulais te dire : sans le faire exprès, j\'ai cassé le verre à moutarde Musclor que lu aimais bien. Le prince sous stéroïdes mal imprimé a perdu sa tête, mais il continue de flatter d\'une main distraite l\'encolure de son tigre vert de compagnie, Tu avais trouvé ce verre dans un vide-greniers où les gens vendaient pas cher de jolies choses. Après l\'avoir regardé longtemps, avec intensité, tu l\'avais négocié à deux euros. C\'était un souvenir d\'enfance et ta joie m\'avait attendrie. Ça allait encore entre nous à ce moment-là, enfin je crois. »
+
+Seule dans son appartement, une jeune femme emballe ses affaires. Demain, des déménageurs emporteront ces traces fragiles de son existence. Elle pense à l\'homme dont elle vient de se séparer, et des histoires surgissent des objets qu\'elle manipule. Une assiette au filet d\'or, un ensemble H&M couleur poil de chameau, un rouleau de Sopalin : ces témoins d\'une vie ordinaire ont autant à raconter qu\'un trépidant roman d\'aventures...
+
+Que reste-t-il de ce que nous avons vécu ? De quelles légendes sommes-nous faits ? Les grandes amours comme les petits riens, les désillusions et les désirs sont au coeur de ce roman plein de surprises, à la fantaisie incomparable.', '2026-08-20', 162, '9782073162854', 19.00, 10, 3),
+(11, 'Minotaure', '« Être l\'indésiré, né hors du désir du père, voilà mon acte de naissance.
+J\'y réponds par un désir extrême, une surenchère d\'histoires vécues... ou racontées.
+Après tout, le Minotaure est un Forçat du sentiment. Forcé d\'aimer tous ceux qu\'il rencontre.
+Avant de les dévorer. »', '2026-08-19', 242, '9782226511874', 20.90, 11, 8),
+(12, 'Une forêt', '« Le capitaine Lenz finissait par se prendre au jeu. S\'il n\'avait aucun intérêt dans l\'affaire, c\'est qu\'il ne la comprenait pas. Mais sa curiosité était piquée. Et puis, défendre la cause de ces oiseaux allemands, démontrer qu\'ils n\'étaient pas de fervents nazis représentait somme toute une occupation préférable à l\'ennui. »', '2026-01-02', 106, '9782226499523', 16.90, 12, 8),
+(13, 'Joseph dans la nuit', 'Voyageur épris d\'ailleurs, de stop et de liberté, Olivier est en route vers Lahore pour fêter la nouvelle année sur une plage indienne. En traversant l\'Iran, il est arrêté à Chiraz alors qu\'explose le mouvement Femme, Vie, Liberté. Accusé d\'espionnage, il reste deux ans et demi en prison.
+Olivier est un poète, habitué à vivre de peu, sans confort ni téléphone portable. En cellule, il mobilise tout ce qui peut lui apporter de la lumière, la poésie persane comme les chansons de Britney Spears.
+Derrière ses paupières, installé dans un cinéma dont il est le seul spectateur, il se projette des films. La nuit, il convoque dans ses rêves les êtres aimés.
+Un récit lumineux et bouleversant qui nous dit que, même dans la nuit, quelque chose en nous refusera toujours de céder. La découverte d\'un écrivain.', '2026-08-20', 230, '9782378805975', 19.90, 13, 9),
+(14, 'N\'efface pas mes cercles', '1980, une femme se suicide dans un appartement cossu. Dans les années cinquante, elle s\'était unie avec un jeune homme à qui tout l\'opposait.
+
+Explorant son histoire familiale, la narratrice tente de démêler les raisons de ce drame et dresse ce faisant le portrait d\'une société aux prises avec ses démons : le patriarcat, la guerre, la colonisation, les injonctions à la réussite et au bonheur.
+
+N\'efface pas mes cercles remonte le temps à la recherche des destins brisés et restitue avec force l\'atmosphère des époques traversées. Cette saga bouleversante confirme le grand art d\'Emma Marsantes.', '2026-08-20', 153, '9782378562953', 19.50, 14, 10),
+(15, 'Bataille au procès', 'En 1956, Georges Bataille est appelé à témoigner au procès de Jean-Jacques Pauvert, poursuivi pour avoir publié les œuvres de Sade. L\’auteur d\'Histoire de l\'oeil comprend que la morale menace de mort la littérature. L\’audience devient le miroir de sa propre vie. Les souvenirs affluent : enfance marquée par la folie d’un père aveugle et paralytique, l\’indifférence d\’une mère réfugiée dans la religion. Des événements qui ont émaillé son parcours surgissent : expériences limites dans ses amours placées sous l\’égide de la transgression, visions de guerre et de sacrifice qui le hantent, traversée du mal, liens tourmentés avec le parti communiste, haine du fascisme… Réflexions et fulgurances se mêlent en un vertige où pensée et vie s\’entrelacent, entre érotisme et sacré, extase et mort. Mais derrière ces éclats affleure aussi une énigme plus obscure. Refusera-t-elle de se dévoiler ?À travers cet épisode de la vie littéraire, Patrice Trigano accompagne Bataille au plus près de son vertige intérieur. Il explore ce point où l\’écriture n\’obéit plus à l’auteur, où l\’œuvre surgit comme une puissance étrangère, excessive, qui le dépasse.Patrice Trigano a fait des études de droit et de philosophie avant de consacrer sa vie à l\’art en tant que galeriste, écrivain et dramaturge. Ses livres sont publiés aux éditions de la Différence, Léo Scheer, Mercure de France et Maurice Nadeau. Il a publié en 2024, La Promesse de l\’art, Mémoires d’un galeriste aux Éditions du Canoë.', '2026-08-21', 136, '9782862316857', 19.00, 15, 11),
+(16, 'C\'était ça ou mourir', 'Le premier roman de Thélyson Orélien est déjà le phénomène littéraire de l\’année 2026. En cours de traduction dans plus d\’une vingtaine de langues, C\’était ça ou mourir a conquis le Québec et bientôt le monde entier, en racontant l\’Odyssée de Jonas Dorléon.
+Après l\’embrasement de son quartier de Port-au-Prince, Jonas n\’emporte presque rien avec lui en quittant Haïti : un diplôme, un cahier de poèmes, la photo de sa mère. Toute une vie dans un sac plastique. Se réfugiant d\’abord en République dominicaine, puis au Brésil et au Mexique, ce professeur d\’histoire franchit les frontières tantôt à bord d\’un autobus surchauffé, tantôt en affrontant les profondeurs de la jungle. À chaque étape des visages surgissent, des corps tombent, des solidarités se nouent puis se brisent. Dans l\’espoir d\’atteindre le Canada et le peu de famille qu\’il lui reste, Jonas se retrouve aux portes des États-Unis, seul face aux agents de l\’ICE et d\’une administration prête à tout pour mener sa chasse aux migrants.
+Avec la trajectoire de Jonas, c\’est une cartographie intime de la survie qui se dévoile. Aussi contemporain qu\’universel, ce roman raconte les migrations au présent — non comme un concept, mais comme une expérience physique : marcher, avoir faim, se blesser, rire devant l\’horreur pour ne pas abandonner. Thélyson Orélien y déploie une écriture foisonnante, traversée d\’humour et de poésie, une langue d\’exil qui s\’apprend « sans grammaire, sans dictionnaire, juste avec les os et la peau ».
+Porté par un souffle narratif irrésistible, C\’était ça ou mourir est un premier roman bouleversant qui révèle un écrivain majeur de notre temps.', '2026-08-19', 266, '9782246847069', 21.50, 16, 6);
 
 
 
@@ -97,7 +123,13 @@ INSERT INTO `pg_editeur` (`ed_id_editeur`, `ed_nom_editeur`) VALUES
 (3, 'Gallimard'),
 (4, 'R. Laffont'),
 (5, 'POL'),
-(6, 'Grasset');
+(6, 'Grasset'),
+(7, 'Minuit'),
+(8, 'Albin Michel'),
+(9, 'l\'Iconoclaste'),
+(10, 'Verdier'),
+(11, 'M. Nadeau');
+
 
 -- --------------------------------------------------------
 
@@ -146,7 +178,43 @@ Elle obtient un doctorat d\'anthropologie sociale à l\'École des études orien
 
 À travers ses différents romans et nouvelles, elle offre aux lecteurs une vision de l\'île Maurice aux antipodes de la vision officielle transmise aux touristes, mettant en exergue aussi les violences faites aux femmes[7]. Ce sont des tableaux percutants de la guerre des sexes et des classes[8]. Certains de ses ouvrages, notamment Les hommes qui me parlent et Deux malles et une marmite, sont également autobiographiques[7].
 
-Elle est l\'épouse du réalisateur mauricien Harrikrisna Anenden[9] et vit à Ferney-Voltaire dans l\'Ain[10].');
+Elle est l\'épouse du réalisateur mauricien Harrikrisna Anenden[9] et vit à Ferney-Voltaire dans l\'Ain[10].'),
+(9, 'Prudhomme', 'Sylvain', 'Sylvain Prudhomme a passé son enfance dans différents pays d\'Afrique (Cameroun, Burundi, Niger, île Maurice) avant de venir étudier les Lettres à Paris, puis de diriger de 2010 à 2012 l\'Alliance franco-sénégalaise de Ziguinchor, au Sénégal. Il est agrégé de lettres modernes.'),
+(10, 'Mélois', 'Clémentine', 'Clémentine Mélois naît le 15 juin 1980 ; elle grandit à La Ferté-Milon[2]. Sa mère est professeure de français[3], son père est le sculpteur Bernard Mélois. Sa sœur Barbara Mélois est marionnettiste.
+
+À l’âge de huit ans, elle remporte le premier prix d’un concours d’écriture organisé par les éditions Gallimard, et reçoit un lot de 365 livres, ce qui marque, dit-elle, « le début de sa vocation de bibliomane »[4].'),
+(11, 'Bergmann', 'Boris', 'Son premier roman, Viens là que je te tue ma belle, aux éditions Scali, journal imaginaire d\'un jeune adolescent qui découvre la nuit et la transgression à travers le rock and roll, reçoit le prix de Flore du lycéen[2]. Ce roman est adapté en 2012 pour Arte par Jean-Stéphane Sauvaire sous le titre de Punk[3],[4], avec Béatrice Dalle, Paul Bartel, Marie-Ange Casta et Bernie Bonvoisin.
+
+En janvier 2010, il publie son second roman, 1 000 Mensonges, aux éditions Denoël : les confidences d\'un menteur qui tombe amoureux.
+
+En août 2016, il sort son troisième roman, Déserteur, aux éditions Calmann-Levy : le récit d\'un jeune hacker utilisé par l\'armée pour programmer les drones dans la guerre contre le califat. Envoyé en mission dans le désert, il sera forcé de prendre part à des actes terribles qui vont le pousser à s\'engager et à se faire face pour la première fois[5].
+
+Il a également collaboré à de nombreuses revues littéraires (La Règle du Jeu[6], Edwarda[7], L\'écho d\Orphée, Les Poètes Bodybuildés, Possession Immédiate[8]) ainsi qu\'à divers magazines et journaux.
+
+En septembre 2017, il est admis comme pensionnaire de la Villa Medicis, promotion 2017/2018. Son projet porte sur le fanatisme[9].
+
+En janvier 2018, il sort son quatrième roman, Nage libre : l\'histoire d\'Issa, jeune d\'un Paris populaire, qui va se libérer par la nage, la quête de désirs et d\'amitié[10]. Nage Libre reçoit le prix littéraire de la vocation 2018[11] ainsi que le prix Révélation de la Société des Gens de Lettres[12].'),
+(12, 'Jouannais', 'Jean-Yves', 'Adolescent, Jean-Yves Jouannais fonde la Revue perpendiculaire. La troupe monte à Paris où Jean-Yves Jouannais devient rédacteur en chef de la revue Art Press[3].
+
+Jean-Yves Jouannais est l\'auteur de plusieurs essais, romans et ouvrages collectifs. Il a été le rédacteur en chef de la revue Exhibition (émission d\'art contemporain diffusée sur Arte. Production MK2 TV).
+
+Depuis 2009, il anime le spectacle-conférence vidéo L\'encyclopédie des guerres visible au Centre national d\'art et de culture Georges-Pompidou[4] et au Palais du Tau à Reims entre autres. Son projet est de compiler une encyclopédie de toutes les guerres de l\'histoire de l\'humanité, et d\'en partager uniquement les citations recueillies[5],[6].'),
+(13, 'Grondeau', 'Olivier', 'Passionné de poésie et d\’ailleurs, Olivier Grondeau est parti huit ans sur les routes, après des études littéraires et des emplois en librairie. Curieux, attentif, il a longtemps mené une vie discrète, guidée par le goût des rencontres et de la littérature. À l\’automne 2022, il se trouve à Chiraz, en Iran, au moment des manifestations du mouvement « Femme, Vie, Liberté ». Kidnappé par les services des renseignements iraniens, il va passer deux ans et demi en prison, notamment dans la terrible prison d\’Evin. Il finit par sortir de l’anonymat après plus de deux ans de détention, devenant malgré lui l\’un des visages de la « diplomatie des otages », ces Occidentaux retenus en prison par l\’État iranien pour faire pression sur leur pays d’origine. Libéré en février 2025, il a achevé ses études d\’anthropologie à Montpellier.
+
+Joseph dans la nuit est son premier livre.'),
+(14, 'Marsantes', 'Emma', 'Née en 1960, Emma Marsantes a grandi à Neuilly-sur-Seine. Elle suit des études de lettres modernes à la faculté de Nanterre, puis à la Sorbonne.
+
+Dans les années quatre-vingt-dix, elle écrit de la poésie qu\’elle publie en revue. Professeure de français, elle a principalement enseigné dans des collèges de la banlieue parisienne. À partir de 2009, elle se consacre à la pratique de la photographie.'),
+(15, 'Trigano', 'Patrice', 'Né à Paris le 4 octobre 1947, Patrice Trigano est le fils de l\’industriel et homme politique André Trigano et de Gaby Sabatier. Après une scolarité à l\’école Alsacienne où Alfred Simon l\’initie au théâtre, il poursuit des études de droit, d’histoire de l\’art à l\’école du Louvre et de philosophie à l\’école pratique des hautes études de la Sorbonne où il est l\’élève de Jean Cassou.
+
+En 1967, alors qu\’il doit passer une année alité à la suite d\'une péricardite constrictive, il découvre les penseurs tragiques, le Surréalisme[3] et se passionne pour l\’art subversif et la pensée libertaire. Il décide alors de consacrer sa vie à l\’art. « Je suis un artropophage », écrira-t-il plus tard[4].
+
+Il trouve son identité dans «l\’art qui engage»[5], adhère aux idées de Mai 68 et devient un lecteur assidu de Marcuse. Sa première manifestation artistique sera l\’organisation d\’un concert Ravel à la sortie des caisses d\’un supermarché avec l\'Orchestre national des Pays de la Loire sous la direction d\’Yves Prin.'),
+(16, 'Thélyson', 'Orélien', 'Thélyson Orélien naît aux Gonaïves, en Haïti en 1988[3].
+
+En 2010, à la suite du séisme qui frappe Haïti, Thélyson Orélien quitte son pays natal et s\’installe au Québec. Cette expérience marque durablement son parcours personnel et littéraire. Dans ses textes et prises de parole, il évoque souvent le lien qu\’il conserve avec Haïti, son pays d\’origine, tout en reconnaissant l\’importance du Québec comme terre d\’accueil. Cette double appartenance nourrit une partie de sa réflexion sur l\’exil, la mémoire, la transmission et l\’identité. Avant la publication de son premier roman, il écrit dans différentes revues, plateformes et espaces de réflexion. En 2007, il a été récompensé dans le cadre du Prix international des jeunes auteurs destiné aux 15-20 ans, en Suisse, pour un texte poétique intitulé Les Couleurs de ma terre,[4] remporté deux ans avant par Joël Dicker.
+
+Il vit au Canada, où il poursuit son travail d\’écriture entre mémoire haïtienne, expérience québécoise et réflexion sur les migrations contemporaines.');
 
 -- --------------------------------------------------------
 
@@ -177,6 +245,23 @@ CREATE TABLE IF NOT EXISTS `pg_membre_jury` (
   `me_role_membre_jury` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`me_id_membre_jury`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Déchargement des données de la table `pg_membre_jury`
+--
+
+INSERT INTO `pg_membre_jury` (`me_id_membre_jury`, `me_nom_membre_jury`, `me_prenom_membre_jury`, `me_role_membre_jury`) VALUES
+(1, 'Decoin', 'Didier', 'Membre'),
+(2, 'Chandernagor', 'Françoise', 'Membre'),
+(3, 'Ben Jelloun', 'Tahar', 'Membre'),
+(4, 'Constant', 'Paule', 'Membre'),
+(5, 'Claudel', 'Philippe', 'Président'),
+(6, 'Assouline', 'Pierre', 'Membre'),
+(7, 'Schmitt', 'Eric-Emmanuel', 'Membre'),
+(8, 'Laurens', 'Camille', 'Membre'),
+(9, 'Bruckner', 'Pascal', 'Membre'),
+(10, 'Angot', 'Christine', 'Membre');
+
 
 -- --------------------------------------------------------
 
